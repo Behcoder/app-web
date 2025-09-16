@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import '../widgets/error_boundary.dart';
-import '../widgets/error_handler.dart';
-
 // Example of how to use ErrorBoundary with any page that might have errors
 class ExampleUsage extends StatelessWidget {
   const ExampleUsage({super.key});

@@ -1,8 +1,8 @@
 {
     "name": "سیفی مارکت - گالری محصولات",
     "short_name": "سیفی مارکت",
-    "start_url": "/",
-    "scope": "/",
+    "start_url": "/app/",
+    "scope": "/app/",
     "display": "standalone",
     "background_color": "#1976d2",
     "theme_color": "#1976d2",
